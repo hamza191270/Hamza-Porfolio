@@ -1,0 +1,14 @@
+.nav1{
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.bord{
+
+    background-color: aquamarine;
+}
+.navbar-nav li:hover{
+        background-color: white;
+        transition: all 1.5s;
+        padding: 0px;
+        
+}

@@ -1,0 +1,17 @@
+.cardion{
+    transition: 2s;
+    background-color: black;
+}
+.cardion .icon{
+    color: red;
+}
+.cardion:hover{
+    background-color: rgb(211, 23, 111);
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.cardion:hover .icon{
+   color: rgb(215, 200, 100);
+   
+}

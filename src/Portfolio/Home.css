@@ -1,0 +1,12 @@
+/* .home{
+    background-color: url('./PortImages/background.jpg');
+    background-color:lightgreen;
+   background-size: 100%;
+} */
+.ico{
+    border: 1px solid white;
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 50%;
+}

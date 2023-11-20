@@ -1,0 +1,15 @@
+.scroll{
+    display: flex;
+    justify-content: end;
+    text-align: end;
+   animation: goto 1.2s linear infinite alternate-reverse;
+}
+@keyframes goto{
+    0%{
+        transform: translateY(-0.5rem);
+    }
+
+    100%{
+        transform: translateY(0.05rem);
+    }
+}
